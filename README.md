@@ -1,1 +1,1 @@
-# educational
+# development sms api
